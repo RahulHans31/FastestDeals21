@@ -3,7 +3,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-bot = telebot.TeleBot("6167977168:AAG3FNQOuMgw7U8JkS-UQ_xin-JCtYsTTEY")
+bot = telebot.TeleBot("5845010274:AAGjg3fca1jycXlbmngJz1YJobLrJiI7nJI")
 affiliate_id = "fastestdeals-21"
 
 def convert_amazon_link_to_affiliate_id(link, affiliate_id):
